@@ -1,2 +1,2 @@
-# -File-Parsing-and-Data-Loading
-Write a Python script to parse a large log file, extract specific information (e.g., error messages and their timestamps), and insert this data into a PostgreSQL database table.
+# -Data-Aggregation-with-Pandas
+Using the Pandas library in Python, load a dataset containing transaction records. Group the data by customer_id and calculate the total spending for each customer.
